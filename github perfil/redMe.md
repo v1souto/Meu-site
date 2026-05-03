@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lucas Souto
 
-🚀 **Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Software Engineer**  
 🇧🇷 Brazil
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -31,17 +31,6 @@
   </a>
 </p>
 
----
-
-## 🧠 What I do
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
 
 
 ---
@@ -70,19 +59,14 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=v1souto&show_icons=true&theme=tokyonight&count_private=true" />
+ 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1souto&layout=compact&theme=tokyonight" />
+</p>
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1souto&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
 
